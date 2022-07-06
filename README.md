@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img src="./public/note.svg" alt="Tailwind" width="280"/>
+   <img src="/public/assets/logo.svg" alt="Tailwind" width="280"/>
 </p>
 
 <p align="center">
