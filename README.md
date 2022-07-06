@@ -32,7 +32,10 @@
 Este projeto foi feito utilizando as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/docs/react-component.html)
-- [LocalStorage]()
+- [ContextApi]()
+- [React-Icons]()
+- [Sass]()
+- [Styled Components]()
 
 # :computer: Autores
 
